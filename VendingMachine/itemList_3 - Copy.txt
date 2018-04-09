@@ -1,0 +1,5 @@
+Coca cola      004 100
+Green Tea     005 050
+Water         010 050
+Milk Tea      015 050
+Soda          020 050

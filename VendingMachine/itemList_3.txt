@@ -1,0 +1,15 @@
+Coca cola  004 098
+Green Tea  005 073
+Water  003 001
+Milk Tea  008 025
+Soda  010 020
+Pepsi  005 039
+Bear paws blue  005 098
+Bear paws green  005 098
+Bear paws pink  005 097
+Pepsi Egypt  010 097
+Bear paws yellow  005 097
+Orange  008 097
+Pepsi Japanese  015 096
+Pepsi MM  020 094
+Vegeterra  007 095
